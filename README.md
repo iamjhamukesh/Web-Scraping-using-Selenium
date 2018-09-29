@@ -1,6 +1,6 @@
 # Web-Scraping-of-Amazon-using-Selenium
 
-The requirements for this Program to work is  : Selenium,Chrome web driver,xlwt and mysql.
+The requirements for this Program to work is  : Selenium,Chrome web driver,xlwt and mysql.</br>
 Installation:</br>
 pip install selenium</br>
 pip install xlwt</br>
