@@ -1,4 +1,4 @@
-# Web-Scraping-using-Selenium
+# Web-Scraping-using-Selenium-of-Amazon
 
 The requirements for this Program to work is  : Selenium,Chrome web driver,xlwt and mysql.
 Installation:</br>
