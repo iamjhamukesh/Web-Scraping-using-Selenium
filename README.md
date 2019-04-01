@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/iamjhamukesh/Web-Scraping-using-Selenium.svg)](http://hits.dwyl.io/iamjhamukesh/Web-Scraping-using-Selenium)
+
 # Web-Scraping-of-Amazon-using-Selenium
 
 The requirements for this Program to work is  : Selenium,Chrome web driver,xlwt and mysql.</br>
